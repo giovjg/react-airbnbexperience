@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore image files
+.png
+
+# Ignore node modules
+node_modules
