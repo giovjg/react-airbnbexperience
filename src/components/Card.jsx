@@ -10,7 +10,7 @@ export default function Card() {
                 <span className="gray">Belgium</span>
             </div>
             <p>Swimming</p>
-            <p><span className="bold">From $136</span> / person</p>
+            <p><span className="bold">From $136</span>/ person</p>
         </div>
     )
 }
